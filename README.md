@@ -1,6 +1,6 @@
 # Thunderuserbot By Thundergang™
 
-# <p align="left"><a href="https://github.com/Thundergang/thunderuserbot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Thundergang&show_icons=true&theme=dark&hide_border=true&repo=thunderuserbot"></a></p><p align="centre"><a href="https://t.me/thunderuserbot">
+# <p align="left"><a href="https://github.com/irash1234567/THUNDER-USER-BOT"><img src="https://github-readme-stats.vercel.app/api/pin?username=Thundergang&show_icons=true&theme=dark&hide_border=true&repo=thunderuserbot"></a></p><p align="centre"><a href="https://t.me/thunderuserbot">
 
 
 ## Tutorials
@@ -12,8 +12,8 @@
 
 ## For any query or want to know how it works join our Channel and Support Group 
 
-<a href="https://t.me/thunderuserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/thunderuserbotchat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ULTRONBOTSV"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ULTRONBOTS"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## ----------------- Don't Forget To Give A Star ⭐ -----------------
 
@@ -21,7 +21,7 @@
 
 <img src="https://telegra.ph/file/f9f72d6a0ed19fac35323.jpg">
 
-If you're getting error as the above image.. Don't get worried, Just fork this repo from [here](https://github.com/Thundergang/thunderuserbot-heroku/fork) and Deploy to heroku. For getting help join our [support group](https://t.me/thunderuserbot).
+If you're getting error as the above image.. Don't get worried, Just fork this repo from [here](https://github.com/irash1234567/THUNDER-USER-BOT-heroku/fork) and Deploy to heroku. For getting help join our [support group](https://t.me/ULTRONBOTS).
 
 For creating a heroku deploy link from your forked repo, just replace Thundergang with your github username
   
