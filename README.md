@@ -21,7 +21,7 @@
 
 <img src="https://telegra.ph/file/f9f72d6a0ed19fac35323.jpg">
 
-If you're getting error as the above image.. Don't get worried, Just fork this repo from [here](https://github.com/irash1234567/THUNDER-USER-BOT-heroku/fork) and Deploy to heroku. For getting help join our [support group](https://t.me/ULTRONBOTS).
+If you're getting error as the above image.. Don't get worried, Just fork this repo from [here](https://github.com/irash1234567/THUNDER-USER-BOT/fork) and Deploy to heroku. For getting help join our [support group](https://t.me/ULTRONBOTS).
 
 For creating a heroku deploy link from your forked repo, just replace Thundergang with your github username
   
